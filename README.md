@@ -21,4 +21,4 @@ docs: <a href="https://react-native-async-storage.github.io/async-storage/docs/u
 
 ## Expo-SQLite
 
-![SqlLiteexpo](https://github.com/blogger1233/react-native-examples/assets/92717190/fb12366f-425c-4081-b5df-96b7dfa98cb0)
+<img src="https://github.com/blogger1233/react-native-examples/assets/92717190/fb12366f-425c-4081-b5df-96b7dfa98cb0" height="200">
