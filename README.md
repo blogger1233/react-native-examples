@@ -2,3 +2,4 @@
 
 ## example1.js
 
+-- <img src="/images/">
