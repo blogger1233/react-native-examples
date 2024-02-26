@@ -18,3 +18,7 @@ https://github.com/blogger1233/react-native-examples/assets/92717190/6c8f3ffa-63
 ## AsyncStorage Library
 
 docs: <a href="https://react-native-async-storage.github.io/async-storage/docs/usage/">Async storage</a>
+
+## Expo-SQLite
+
+![SqlLiteexpo](https://github.com/blogger1233/react-native-examples/assets/92717190/fb12366f-425c-4081-b5df-96b7dfa98cb0)
