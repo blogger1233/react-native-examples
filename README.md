@@ -2,8 +2,10 @@
 
 ## example1.js
 
--- <video width="320" height="240" controls>
-  <source src="./videos/example1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/blogger1233/react-native-examples/assets/92717190/72e05c6b-b68e-42c4-ac9d-285cd12c2a14
+
+
+
 
