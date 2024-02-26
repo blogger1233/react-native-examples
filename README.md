@@ -1,4 +1,4 @@
 # React native examples
 
 ## example1.js
-!["image"](https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg)
+<img src="https://lh3.googleusercontent.com/a/AGNmyxZeaLqhLakhdW1UPRPpxRbcWv0_A_59d0p_QzcI=s96-c" height="300" >
