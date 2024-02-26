@@ -1,0 +1,50 @@
+[
+        {
+            "id":"1",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Lc3_2018_%28263682303%29_%28cropped%29.jpeg",
+            "name": "Linus Torvalds",
+            "desc": "a Finnish-American software engineer, is renowned for creating the Linux kernel, pivotal in modern computing. His visionary leadership and commitment to open-source principles have shaped the digital landscape."
+        },
+        {
+            "id":"2",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Richard_Stallman_at_LibrePlanet_2019.jpg/800px-Richard_Stallman_at_LibrePlanet_2019.jpg",
+            "name": "Richard Stallman",
+            "desc": "Richard Stallman is a pioneering figure in the world of software freedom, best known for launching the GNU Project and advocating for free software. His work has had a profound impact on technology and society."
+        },
+        {
+            "id":"3",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg/330px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg",
+            "name":"Mark ZuckerBerg",
+            "desc":"Mark Zuckerberg is a tech entrepreneur who co-founded Facebook, now Meta Platforms Inc. He revolutionized social networking and digital communication, impacting billions worldwide with his innovations and vision."
+        },
+        {
+            "id":"4",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg",
+            "name":"Tim Berners Lee",
+            "desc":"Tim Berners-Lee is a computer scientist who invented the World Wide Web, revolutionizing global communication. His contributions laid the foundation for the modern internet, promoting openness, accessibility, and information sharing worldwide"
+        },
+        {
+            "id":"1",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Lc3_2018_%28263682303%29_%28cropped%29.jpeg",
+            "name": "Linus Torvalds",
+            "desc": "a Finnish-American software engineer, is renowned for creating the Linux kernel, pivotal in modern computing. His visionary leadership and commitment to open-source principles have shaped the digital landscape."
+        },
+        {
+            "id":"2",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Richard_Stallman_at_LibrePlanet_2019.jpg/800px-Richard_Stallman_at_LibrePlanet_2019.jpg",
+            "name": "Richard Stallman",
+            "desc": "Richard Stallman is a pioneering figure in the world of software freedom, best known for launching the GNU Project and advocating for free software. His work has had a profound impact on technology and society."
+        },
+        {
+            "id":"3",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg/330px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg",
+            "name":"Mark ZuckerBerg",
+            "desc":"Mark Zuckerberg is a tech entrepreneur who co-founded Facebook, now Meta Platforms Inc. He revolutionized social networking and digital communication, impacting billions worldwide with his innovations and vision."
+        },
+        {
+            "id":"4",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg",
+            "name":"Tim Berners Lee",
+            "desc":"Tim Berners-Lee is a computer scientist who invented the World Wide Web, revolutionizing global communication. His contributions laid the foundation for the modern internet, promoting openness, accessibility, and information sharing worldwide"
+        }
+    ]
