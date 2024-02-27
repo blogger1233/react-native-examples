@@ -22,3 +22,10 @@ docs: <a href="https://react-native-async-storage.github.io/async-storage/docs/u
 ## Expo-SQLite
 
 <img src="https://github.com/blogger1233/react-native-examples/assets/92717190/fb12366f-425c-4081-b5df-96b7dfa98cb0" height="500">
+
+## Inserting customers name Using expo-sqlite
+
+
+
+https://github.com/blogger1233/react-native-examples/assets/92717190/0301e70c-e04c-4b41-80dc-2ebe3c871a6e
+
